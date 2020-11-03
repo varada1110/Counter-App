@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: #00c7ff;
+  margin-top: 22vh;
+  
+}
+.btn{
+  margin:10px;
+  height: 7vh;
+  width: 8vw;
+  font-weight: 700;
+  font-size: x-large;
+  border: #25b1bb;
+  box-shadow: 1px 1px 1px 1px #02a0cc;
+  cursor:pointer;
+  border-radius: 5px;
+  color:#0885a8
+  
+
+}
+.App button:focus{
+  outline: none;
+}
+.reset{
+  height: 8vh;
+  width: 15vw;
+  border: none;
+  text-align: center;
+  color: white;
+  background: rgb(38, 65, 114);
+  border-radius: 7px;
+  font-weight: bold;
+  margin-top: 20px;
+  cursor: pointer;
+}
